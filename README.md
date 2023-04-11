@@ -1,6 +1,6 @@
 # DF-Status-webserver
 
-DF-Status-webserver is a Python web server designed to receive and display information about plots on DiamondFire (https://www.diamondfireapp.com/). It has a refresh rate of 2 seconds and provides real-time updates on plot statuses.
+DF-Status-webserver is a Python web server designed to receive and display information about plots on DiamondFire. It has a refresh rate of 2 seconds and provides real-time updates on plot statuses.
 
 ## Features
 
@@ -22,7 +22,7 @@ Please note that this project is no longer actively maintained and is considered
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `pip` or `conda`.
 3. Run the `df_status_webserver.py` script.
-4. Access the web server from your web browser at `http://localhost:8080` (or the specified port).
+4. Access the web server from your web browser at `http://localhost:8001` (or the specified port).
 
 ## License
 
